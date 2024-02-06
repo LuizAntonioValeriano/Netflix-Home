@@ -195,6 +195,10 @@ footer p{
 /* Estilos para dispositivos móveis */
 @media (max-width: 768px) {
 
+  .logonet{
+    align-items: center;
+  }
+  
 .pesquisar{
   display: none;
 }
